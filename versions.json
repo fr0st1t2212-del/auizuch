@@ -1,6 +1,8 @@
 {
   "versions": [
-    { "name": "v1.2 Stable", "url": "https://github.com/fr0st1t2212-del/auizuch/raw/refs/heads/main/cheat.zip" },
-    { "name": "v1.3 Beta", "url": "https://example.com/v1.3.zip" }
+    { "name": "Самопис ( DEL )", "url": "https://github.com/fr0st1t2212-del/auizuch/raw/refs/heads/main/cheat.zip" },
+    { "name": "HUD Editor ( /arzhud )", "url": "https://github.com/fr0st1t2212-del/auizuch/raw/refs/heads/main/Hud%20editor.zip" }
+    { "name": "NewMoneySeparator v4 ( /nms.menu )", "url": "https://github.com/fr0st1t2212-del/auizuch/raw/refs/heads/main/NewMoneySeparator%20v4.zip" }
+    { "name": "Character Stats ( /cef )", "url": "https://github.com/fr0st1t2212-del/auizuch/raw/refs/heads/main/CEFStats.zip" }
   ]
 }
