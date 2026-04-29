@@ -1,0 +1,6 @@
+{
+  "versions": [
+    { "name": "v1.2 Stable", "url": "https://github.com/fr0st1t2212-del/auizuch/raw/refs/heads/main/cheat.zip" },
+    { "name": "v1.3 Beta", "url": "https://example.com/v1.3.zip" }
+  ]
+}
